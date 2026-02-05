@@ -25,7 +25,12 @@ Proyecto-empresa-de-telefonia/
 │
 ├── Proyec_telecom_completo revisado.ipynb # Notebook principal con análisis
 ├── README.md # Documentación del proyecto
-├── data/ # Carpeta sugerida para datasets
+├── data/
+│ └── megaline_calls
+│ └── megaline_internet
+│ └── megaline_messages
+│ └── megaline_plans
+│ └── megaline_users
 ├── visualizaciones/ # Gráficos generados exportados
 └── requirements.txt # Dependencias del proyecto
 
